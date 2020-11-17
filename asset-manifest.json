@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/signup-simple/static/css/main.16184be3.chunk.css",
+    "main.js": "/signup-simple/static/js/main.9fc602d0.chunk.js",
+    "main.js.map": "/signup-simple/static/js/main.9fc602d0.chunk.js.map",
+    "runtime-main.js": "/signup-simple/static/js/runtime-main.7605634b.js",
+    "runtime-main.js.map": "/signup-simple/static/js/runtime-main.7605634b.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/signup-simple/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c8f55e71.chunk.js": "/signup-simple/static/js/2.c8f55e71.chunk.js",
+    "static/js/2.c8f55e71.chunk.js.map": "/signup-simple/static/js/2.c8f55e71.chunk.js.map",
+    "static/js/3.a2318413.chunk.js": "/signup-simple/static/js/3.a2318413.chunk.js",
+    "static/js/3.a2318413.chunk.js.map": "/signup-simple/static/js/3.a2318413.chunk.js.map",
+    "index.html": "/signup-simple/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/signup-simple/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.16184be3.chunk.css.map": "/signup-simple/static/css/main.16184be3.chunk.css.map",
+    "static/js/2.c8f55e71.chunk.js.LICENSE.txt": "/signup-simple/static/js/2.c8f55e71.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/signup-simple/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7605634b.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c8f55e71.chunk.js",
+    "static/css/main.16184be3.chunk.css",
+    "static/js/main.9fc602d0.chunk.js"
+  ]
+}
