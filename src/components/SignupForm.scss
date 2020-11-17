@@ -1,0 +1,107 @@
+.form {
+    &.container {
+        .error {
+            background: red;
+            padding: 12px 15px;
+            max-width: 40%;
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+            color: white;
+            border-radius: 5px;
+            margin-bottom: 1em;
+        }
+        .clean {
+            background: limegreen;
+            padding: 12px 15px;
+            max-width: 40%;
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+            color: white;
+            border-radius: 5px;
+            margin-bottom: 1em;
+        }
+        margin-top: 12%;
+        width: 60%;
+        .right-side {
+            .input-field {
+                width: 100%;
+                position: relative;
+                .field-column {
+                  position: relative;
+                  margin-top: 20px;
+                  display: flex;
+                  label {
+                    margin-left: 11px;
+                  }
+                  input {
+                    height: 50px;
+                    border-radius: 12pt;
+                    border: none;
+                    padding: 20px 18px;
+                    box-shadow: 0px 0px 5px 0px #D4D4D4;
+                  }
+                  span {
+                    position: absolute;
+                    display: flex;
+                    left: 100%;
+                    top: -1em;
+                    ion-icon {
+                      position: relative;
+                      right: .5em;
+                    }
+                    .error-box {
+                      padding: 1.5em;
+                      border-radius: .8em;
+                      font-size: 10px;
+                      font-style: normal;
+                      font-weight: bold;
+                      color: #6C6C6C;
+                      width: 19em;
+                      box-shadow: 0px 0px 5px 0px #D4D4D4;
+                      background: white;
+                    }
+                  }
+                  .error-message,
+                  .success-message {
+                    margin-left: 16px;
+                    font-style: italic;
+                    display: flex;
+                    align-items: center;
+                  }
+                  .error-message {
+                    color: red
+                  }
+                  .success-message {
+                    color: limegreen
+                  }
+                  .error-outline {
+                    border: solid red 1px;
+                  }
+                  .success-outline {
+                    border: solid limegreen 1px;
+                  }
+                }
+              }
+            
+        }
+        .submit-section {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 12px;
+            p {
+                font-size: 12px;
+                margin: 0;
+                margin-left: 10px;
+                span {
+                    font-weight: 700;
+                }
+            }
+            button {
+                margin-right: 10px;
+            }
+        }
+    }
+}
